@@ -1,0 +1,7 @@
+toto je program navržen pro RPi (Raspberry Pi) konkrétně v mém případě model 3B =>nebude pořádně fungovat na normálním PC
+
+jedná se o vytvoření lokální IP camery s přenosem obrazu v reálném čase za použití vnitřního úložiště RPi
+
+k tomuto kódu je třeba RPi 3 a vyšší a následně také camera, která se zapojuje přímo do desky
+
+pokud někdo bude chtít vidět, jak to funguje, klidně pište mohu ukázat
